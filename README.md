@@ -12,6 +12,10 @@
   * CSAPP
 
 - NetWork
+  * 성공과 실패를 결정하는 1% 네트워크 원리
+  * 그림으로 배우는 Http&Network basic
+  * HTTP 완벽 가이드
+
 
 
 - JPA
