@@ -8,6 +8,8 @@
 ## 읽을책
 - OS
   * 쉽게 배우는 운영체제
+  * OSTEP (Korean Version): https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean
+  * CSAPP
 
 - NetWork
 
