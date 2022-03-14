@@ -2,7 +2,7 @@
 </hr>
 
 ## 읽은책
-https://memory-storage-center.tistory.com/category
+> https://memory-storage-center.tistory.com/category
 - 기타
   * 프로그래머의 길, 멘토에게 묻다
 
