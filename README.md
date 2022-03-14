@@ -16,14 +16,11 @@
   * 그림으로 배우는 Http&Network basic
   * HTTP 완벽 가이드
 
-
-
 - JPA
-
-
+  * 자바 ORM 표준 JPA 프로그래밍
+ 
 - Servlet/JSP
-
-
+  * 열혈강의 자바 웹 개발 워크북
 - DB
 
 
