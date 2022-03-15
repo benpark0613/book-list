@@ -1,5 +1,4 @@
 # bookList
-</hr>
 
 ## 읽은책
 > https://memory-storage-center.tistory.com/category
